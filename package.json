@@ -1,3 +1,7 @@
 "scripts": {
   "start": "node index.js"
 }
+"scripts": {
+  "build": "tsc",
+  "start": "node dist/index.js"
+}
